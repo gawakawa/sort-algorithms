@@ -1,0 +1,10 @@
+name = "SortAlgorithms"
+version = "0.1.0"
+defaultTargets = ["sortalgorithms"]
+
+[[lean_lib]]
+name = "SortAlgorithms"
+
+[[lean_exe]]
+name = "sortalgorithms"
+root = "Main"
